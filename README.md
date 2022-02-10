@@ -10,5 +10,5 @@ Template for creating coverage plots of mitochondria with Circos.
   ```
   chr - chrm y 0 16569 chrm
   ```
-3. Copy the entire template in Circos/.
+3. Download the entire folder in Circos/.
 4.  
