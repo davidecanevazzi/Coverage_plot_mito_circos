@@ -6,7 +6,7 @@ Template for creating coverage plots of mitochondria with Circos.
 ## Getting started
 
 1. Install the Circos software
-2. In the folder Circos/data/karyotype/ add to the file karyotype.human.txt the line
+2. Inside Circos/data/karyotype/ add to the file karyotype.human.txt the line:
   ```
   chr - chrm y 0 16569 chrm
   ```
