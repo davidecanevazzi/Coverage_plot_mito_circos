@@ -20,5 +20,3 @@ Template for creating coverage plots of mitochondria with Circos.
   ./run
   ```
 5. If the test image Circos.png appears you can start using the template.
-
-## User's guide
