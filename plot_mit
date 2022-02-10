@@ -32,7 +32,6 @@ r1	= 0.95r
 fill_color	= newgreen
 sort_bin_values	= no
 min=0
-max=9000
 <backgrounds>
 <background>
 color = vvlgrey
