@@ -11,7 +11,11 @@ Template for creating coverage plots of mitochondria with Circos.
   chr - chrm y 0 16569 chrm
   ```
 3. Download the entire folder Coverage_plot_mito_circos in Circos/.
-4. Iside Circos/Coverage_plot_mito_circos/ try to run with:
+4. Inside Circos/Coverage_plot_mito_circos make run executable with:
+  ```
+  chmod +x run
+  ```
+6. And execute with:
   ```
   ./run
   ```
